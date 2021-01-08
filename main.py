@@ -1,5 +1,5 @@
 def gimmieHalf(x, y):
-    if x % y == .5:
+    if x * 2 == y:
         return True
     else:
         return False
